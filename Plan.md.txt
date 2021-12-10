@@ -1,0 +1,18 @@
+const projectPlan = () =>{
+
+"developer":"Olaoluwa Samuel",
+"project": "chuck norris api",
+"functionality": "fetches and store jokes from api",
+"estimated time": "24 hours",
+"expected dependencies":[
+	"material ui","react","etc"
+]
+};
+
+
+
+
+That's on a lighter note. However, I am really motivated and 
+ready to work and grow with the company.
+
+Thanks
